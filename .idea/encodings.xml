@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Bpanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Cpanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Dpanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Epanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Fpanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Gpanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/AllAddNumberframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/ForecastAddframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/HistoryAddframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/HistoryUpdateframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/SelectBonusframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/SelectForecast.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/UpDateNumber.java" charset="UTF-8" />
+  </component>
+</project>
